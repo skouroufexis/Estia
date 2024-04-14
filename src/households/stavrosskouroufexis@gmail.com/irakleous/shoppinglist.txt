@@ -1,0 +1,2 @@
+lemonia,groceries,1
+mantorinia,groceries,1

@@ -1,0 +1,42 @@
+
+
+
+.Main-img {height: 15vh;}
+
+
+#main-button1{
+    background-color: white;
+    border: none;
+    color: red;
+    /* color: rgb(0, 128, 0); */
+    /* box-shadow: 0px 0px 3px red;
+    border: solid red thin; */
+    
+    background-color:rgb(255, 0, 0,0.05) ;
+    
+    /* background-color: rgb(245, 245, 245,0.5); */
+}
+
+#main-button2{
+    background-color: white;
+    border: none;
+    color: darkcyan;
+    
+    /* box-shadow: 0px 0px 3px darkcyan;
+    border: solid darkcyan thin; */
+    
+    background-color:rgb(0, 139, 139,0.05) ;
+    /* background-color: rgb(245, 245, 245,0.5); */
+    
+}
+
+#main-button3{
+    background-color: white;
+    border: none;
+    color:rgba(199, 6, 199,1) ;
+    /* box-shadow: 0px 0px 3px rgb(199, 6, 199);
+    border: solid rgb(199, 6, 199) thin; */
+    background-color:rgb(199, 6, 199,0.05) ;
+    /* background-color: rgb(245, 245, 245,0.5); */
+}
+

@@ -1,0 +1,7 @@
+γάλα,1,1,1,groceries,4,true
+portokalia,1,1,5,groceries,1,false
+lemonia,1,1,5,groceries,1,false
+mantorinia,1,1,5,groceries,1,false
+frappes,1,1,5,groceries,1,true
+frappes1,0,0,1,groceries,1,true
+frappes2,1,1,5,groceries,1,true
